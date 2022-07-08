@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.project.censusprofiling.exception.AddressAlreadyExistsException"/>
+    <fullyQualifiedTypeName name="com.project.censusprofiling.entity.AddressEntity"/>
+    <fullyQualifiedTypeName name="com.project.censusprofiling.exception.AddressNotFoundException"/>
+</qualifiedTypeNameHistroy>

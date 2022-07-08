@@ -1,0 +1,13 @@
+package com.project.censusprofiling;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CensusProfileApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CensusProfileApplication.class, args);
+	}
+
+}
